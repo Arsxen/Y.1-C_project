@@ -1,2 +1,2 @@
-# Y.1-C_project
+# C_Project ICT - Contact Management System
 ICT - Contact Management System
